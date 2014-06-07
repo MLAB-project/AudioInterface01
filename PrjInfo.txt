@@ -1,0 +1,13 @@
+﻿[InfoShortDescription.en]
+External USB audio card
+
+[InfoShortDescription.cs]
+Externí USB zvukovka
+
+[InfoLongDescription.en]
+External USB audio interface constructed from MLAB modules. It is compatible with USB UAC1 specification which does not require special drivers.
+
+[InfoLongDescription.cs]
+USB zvuková karta sestavená z modulů MLAB. Pouzité USB rozhraní je kompatibilní se standardem UAC, takže nepotřebuje žádné spociální drivery.
+
+[End]
